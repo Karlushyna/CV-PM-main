@@ -163,7 +163,7 @@ color: #fff;
   justify-content: center;
   align-items: center;
   /* position: absolute; */
-  bottom: 0; /* Position the line at the bottom of the container */
+  bottom: 0; /* Position the line at the bottom of the container/ */
   left: 50%; /* Start the line from the center */
   transform: translateX(-50%); /* Center the line horizontally */
   /* width: 1200px; */
