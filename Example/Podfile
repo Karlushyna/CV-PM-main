@@ -1,0 +1,10 @@
+target 'Segment-Adjust_Example' do
+  pod 'Segment-Adjust', :path => '../'
+
+  target 'Segment-Adjust_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+  end
+end
